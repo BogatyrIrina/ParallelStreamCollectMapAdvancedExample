@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ADS-online" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../API-HonestSign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ATM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ATM-testTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BudgetApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Collection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Collection-Map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CrptApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CrptApi-?" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Enum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FinanceApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FinanceApp-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FlightService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Functional Interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Functional Programming Task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Functional_Interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JDBC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JUnit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../OpenSchool1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../OpenSchoolAOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Recipes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Senla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Stream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../StudyProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../T1-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TelegramBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TestProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Thesis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Ticket 9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TrainingDiary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../WalletService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../access-key-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../autoRacing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../coursework-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../coursework-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../graduate-work-shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../shelter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../shelter_bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../test-backend-copy" vcs="Git" />
+  </component>
+</project>
